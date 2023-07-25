@@ -1,0 +1,16 @@
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net5.0\BusinessObjects.deps.json
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.json
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.dev.json
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net5.0\BusinessObjects.dll
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.AssemblyReference.cache
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfoInputs.cache
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfo.cs
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\BusinessObjects.dll
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\refint\BusinessObjects.dll
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\BusinessObjects.pdb
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\BusinessObjects.genruntimeconfig.cache
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net5.0\ref\BusinessObjects.dll
+E:\workplace\prn231\Lab03_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net5.0\appsettings.json
